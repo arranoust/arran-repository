@@ -1,12 +1,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
         "fileSize": 21053,
         "status": 1,
         "language": "id",
         "authors": [
-            "TeKuma25"
+            "arranoust"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -15,6 +15,6 @@
         ],
         "version": 16,
         "internalName": "Otakudesu",
-        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Otakudesu.cs3",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Otakudesu.cs3",
         "name": "Otakudesu"
     },
