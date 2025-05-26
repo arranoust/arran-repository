@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "iconUrl": "https://otakudesu.cloud/wp-content/uploads/2017/06/Logo-1.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/arranoust/arran-repository",
         "fileSize": 21053,
@@ -16,6 +16,7 @@
         ],
         "version": 16,
         "internalName": "Otakudesu",
+        "description": "Otakudesu is a plugin that provides streaming links for Anime.",
         "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Otakudesu.cs3",
         "name": "Otakudesu"
     }
