@@ -2,20 +2,19 @@
 
 Arran's Repository adalah kumpulan ekstensi CloudStream yang difokuskan untuk streaming anime dari berbagai sumber, termasuk situs-situs populer di Indonesia. Dengan repositori ini, pengguna bisa menikmati koleksi anime favorit langsung lewat aplikasi CloudStream dengan mudah dan praktis.
 
-## Fitur Utama
+## - Fitur Utama
 
 *   **Mudah Digunakan:** Instalasi dan penggunaan yang sederhana melalui aplikasi CloudStream.
 *   **Pembaruan Reguler:** Ekstensi diperbarui secara berkala untuk memastikan kompatibilitas dan ketersediaan konten.
 *   **Fokus pada Konten Indonesia:** Kumpulan ekstensi ini berfokus pada konten yang relevan dengan pengguna di Indonesia.
 
-## Daftar Ekstensi
+## - Daftar Ekstensi
 
 Berikut adalah daftar ekstensi yang tersedia di repositori:
 
-| Nama Ekstensi | Status                            |
-| Otakudesu     | Bekerja                           |
+- Otakudesu (Bekerja)
 
-## Cara Menggunakan
+## - Cara Menggunakan
 
 1.  Buka aplikasi CloudStream.
 2.  Buka menu "Ekstensi".
