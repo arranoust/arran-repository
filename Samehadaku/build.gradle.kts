@@ -4,8 +4,7 @@ version = 23
 
 cloudstream {
     language = "id"
-     description = "Samehadaku is a plugin that provides streaming links for Anime."
-     authors = listOf("arranoust")
+     authors = listOf("arranoust", "Samehadaku")
 
     /**
      * Status int as the following:

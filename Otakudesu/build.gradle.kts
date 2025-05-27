@@ -4,10 +4,7 @@ version = 16
 
 cloudstream {
     language = "id"
-    // All of these properties are optional, you can safely remove them
-
-    // description = "Lorem Ipsum"
-    authors = listOf("arranoust")
+    authors = listOf("arranoust", "TeKuma")
 
     /**
      * Status int as the following:
