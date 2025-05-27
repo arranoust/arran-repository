@@ -12,7 +12,11 @@ Arran's Repository adalah kumpulan ekstensi CloudStream yang difokuskan untuk st
 
 Berikut adalah daftar ekstensi yang tersedia di repositori:
 
-- Otakudesu (Bekerja)
+|   Nama Ekstensi   |   Status   |
+|-------------------|------------|
+|   Otakudesu       |   Bekerja  |
+|   Samehadaku      |   Bekerja  |
+
 
 ## - Cara Menggunakan
 
