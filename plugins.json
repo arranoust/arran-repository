@@ -19,5 +19,27 @@
         "description": "Otakudesu is a plugin that provides streaming links for Anime.",
         "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Otakudesu.cs3",
         "name": "Otakudesu"
+    },
+
+  {
+        "iconUrl": "https://samehadaku.now/wp-content/uploads/2020/04/cropped-download-1-192x192.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 16074,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "arranoust"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 23,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
     }
+
 ]
