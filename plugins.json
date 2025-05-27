@@ -38,6 +38,7 @@
         ],
         "version": 23,
         "internalName": "Samehadaku",
+        "description": "Samehadaku is a plugin that provides streaming links for Anime.",
         "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Samehadaku.cs3",
         "name": "Samehadaku"
     }
