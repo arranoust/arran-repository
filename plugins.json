@@ -1,4 +1,24 @@
 [
+
+    {
+        "iconUrl": "https://nekopoi.care/wp-content/uploads/2022/07/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 21999,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "arranoust"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "Nekopoi",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
+    },
+
     {
         "iconUrl": "https://otakudesu.cloud/wp-content/uploads/2017/06/Logo-1.png",
         "apiVersion": 1,
@@ -7,7 +27,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "arranoust", "TeKuma25"
+            "arranoust"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -29,7 +49,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "arranoust", "TeKuma25"
+            "arranoust"
         ],
         "tvTypes": [
             "AnimeMovie",
