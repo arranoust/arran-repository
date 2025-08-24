@@ -16,6 +16,28 @@
             "OVA"
         ],
         "version": 1,
+        "internalName": "Testing",
+        "description": "Testing is a plugin that provides streaming links for Anime, Donghua, and Movies.",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/Testing.cs3",
+        "name": "Testing"
+    },
+
+    {
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 16170,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "arranoust"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
         "internalName": "AnimeSail",
         "description": "AnimeSail is a plugin that provides streaming links for Anime, Donghua, and Movies.",
         "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/AnimeSail.cs3",
