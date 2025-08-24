@@ -11,6 +11,7 @@ Arran's Repository merupakan koleksi ekstensi CloudStream yang ditujukan untuk m
 
 ## Cara Menggunakan
 **Shortcode**: `ranrepo`
+---
 **Manual**:
 1.  Buka aplikasi CloudStream.
 2.  Buka menu "Ekstensi".
