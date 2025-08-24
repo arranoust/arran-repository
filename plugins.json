@@ -18,7 +18,7 @@
         "version": 1,
         "internalName": "AnimeSail",
         "description": "AnimeSail is a plugin that provides streaming links for Anime, Donghua, and Movies.",
-        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/AnimeSail.cs3",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/AnimeSail.cs3",
         "name": "AnimeSail"
     },
 
@@ -37,7 +37,7 @@
         ],
         "version": 1,
         "internalName": "Nekopoi",
-        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Nekopoi.cs3",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/Nekopoi.cs3",
         "name": "Nekopoi"
     },
 
@@ -59,7 +59,7 @@
         "version": 2,
         "internalName": "Otakudesu",
         "description": "Otakudesu is a plugin that provides streaming links for Anime.",
-        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Otakudesu.cs3",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/Otakudesu.cs3",
         "name": "Otakudesu"
     },
 
@@ -81,7 +81,7 @@
         "version": 2,
         "internalName": "Samehadaku",
         "description": "Samehadaku is a plugin that provides streaming links for Anime.",
-        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Samehadaku.cs3",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/Samehadaku.cs3",
         "name": "Samehadaku"
     }
 
