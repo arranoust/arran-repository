@@ -1,0 +1,8 @@
+{
+    "name": "Arran's Repository",
+    "description": "Indonesian Repository for CloudStream.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/arranoust/arran-repository/builds/plugins.json"
+    ]
+}

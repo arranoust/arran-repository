@@ -1,0 +1,91 @@
+[
+
+    {
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 16170,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25",
+            "arranoust"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeSail",
+        "description": "AnimeSail is a plugin that provides streaming links for Anime, Donghua, and Movies.",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/AnimeSail.cs3",
+        "name": "AnimeSail"
+    },
+
+    {
+        "iconUrl": "https://nekopoi.care/wp-content/uploads/2022/07/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 21999,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25",
+            "arranoust"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Nekopoi",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
+    },
+
+    {
+        "iconUrl": "https://otakudesu.best/wp-content/uploads/2017/06/Logo-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 21053,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25",
+            "arranoust"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "Otakudesu",
+        "description": "Otakudesu is a plugin that provides streaming links for Anime.",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Otakudesu.cs3",
+        "name": "Otakudesu"
+    },
+
+  {
+        "iconUrl": "https://samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-192x192.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 16074,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "arranoust"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Samehadaku",
+        "description": "Samehadaku is a plugin that provides streaming links for Anime.",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    }
+
+]
