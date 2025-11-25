@@ -48,6 +48,29 @@
     },
 
     {
+        "iconUrl": "https://moviebox.ph/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/arranoust/arran-repository",
+        "fileSize": 27743,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "arranoust"
+        ],
+	"tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Moviebox",
+        "description": "Moviebox lets you watch movies and TV series online and for free.",
+        "url": "https://raw.githubusercontent.com/arranoust/arran-repository/main/Moviebox.cs3",
+        "name": "Moviebox"
+    },
+
+    {
         "iconUrl": "https://nekopoi.care/wp-content/uploads/2022/07/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/arranoust/arran-repository",
