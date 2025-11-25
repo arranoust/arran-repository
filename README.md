@@ -6,6 +6,7 @@ Arran's Repository merupakan koleksi ekstensi CloudStream yang ditujukan untuk m
 | ------------- | --------------------------------- |
 | AnimeSail     | Bekerja                           |
 | Idlix         | Bekerja                           |
+| Moviebox      | Bekerja                           |
 | Nekopoi       | Bekerja                           |
 | Otakudesu     | Bekerja                           |
 | Samehadaku    | Bekerja                           |
