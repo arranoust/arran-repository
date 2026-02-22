@@ -1,6 +1,9 @@
 # Arran's Repository
 Arran's Repository merupakan koleksi ekstensi CloudStream yang ditujukan untuk menghadirkan konten streaming dari beragam sumber di Indonesia. Di dalam repositori ini tersedia berbagai ekstensi yang menambah kemampuan aplikasi CloudStream, sehingga pengguna dapat menonton film, serial, hingga anime dari situs-situs populer di Indonesia dengan lebih mudah.
 
+# Info repo
+Repo sudah tidak aktif, [pindah kesini](https://github.com/arranoust/miraiext)
+
 ## Daftar Ekstensi
 | Nama Ekstensi | Status                            |
 | ------------- | --------------------------------- |
@@ -12,7 +15,7 @@ Arran's Repository merupakan koleksi ekstensi CloudStream yang ditujukan untuk m
 | Samehadaku    | Bekerja                           |
 
 ## Cara Menggunakan
-**Shortcode**: `ranrepo`
+**Shortcode**: ~ranrepo~ mirai
 ---
 **Manual**:
 1.  Buka aplikasi CloudStream.
